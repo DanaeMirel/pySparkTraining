@@ -1,4 +1,4 @@
-# pySparkTraining
+# PySparkTraining
 
 
 # 1. IntroductionPySpark.ipynb
