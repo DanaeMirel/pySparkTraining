@@ -1,6 +1,9 @@
 # pySparkTraining
 
-## Introduction
+
+# 1. IntroductionPySpark.ipynb
+
+### Introduction
 
 1. What is Spark?
 2. Using Spark in Python
@@ -11,7 +14,7 @@
 5. Creating a DataFrame from a local file 
 6. Creating a DataFrame from a RDD 
 
-## Manipulating data
+### Manipulating data
 
 7. Creating columns
 8. Renaming columns
@@ -21,7 +24,7 @@
 12. Joins 
 13. Aggregating
 
-## Using SQL 
+### Using SQL 
 
 14. SQL reminder
 15. Pandafy a Spark DataFrame
