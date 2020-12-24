@@ -13,12 +13,20 @@
 
 ## Manipulating data
 
-1. Creating columns
-2. Renaming columns
-3. Selecting columns 
-4. Creating columns with the .select() method
-5. Filtering
-6. Joins 
+7. Creating columns
+8. Renaming columns
+9. Selecting columns 
+10. Creating columns with the .select() method
+11. Filtering
+12. Joins 
+13. Aggregating
+
+## Using SQL 
+
+14. SQL reminder
+15. Pandafy a Spark DataFrame
+16. Put some Spark in your data
+17. Viewing tables
 
 
 
